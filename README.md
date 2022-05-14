@@ -1,4 +1,4 @@
-# Hi 👋 i'm Ricard Ferrero
+# Hi 👋 I'm Ricard Ferrero
 
 I enjoy experimenting on software technologies:
 - 🐧Linux
