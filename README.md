@@ -3,8 +3,8 @@
 I enjoy experimenting on software technologies:
 - 🐧Linux
 - 🐍Python
-- 🕸Web dev (frontend)
-- __Now__: working with API and desktop app
+- 🕸Web frontend (HTML, CSS, JS)
+- 🖥Desktop app
 
 ## B1T L4B
 
