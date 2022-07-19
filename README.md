@@ -1,6 +1,6 @@
 # Hi 👋 I'm Ricard Ferrero
 
-I love backend... But it's hard to don't be corious with IT.
+I love backend... But it's hard not to be curious about IT.
 - 🐧Linux
 - 🐍Python
 - 🗃️Backend (Django)
