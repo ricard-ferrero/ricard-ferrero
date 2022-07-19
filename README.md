@@ -1,9 +1,10 @@
 # Hi 👋 I'm Ricard Ferrero
 
-I enjoy experimenting on software technologies:
+I love backend... But it's hard to don't be corious with IT.
 - 🐧Linux
 - 🐍Python
-- 🕸Web frontend (HTML, CSS, JS)
+- 🗃️Backend (Django)
+- 🕸Frontend (HTML, CSS, JS)
 - 🖥Desktop app
 
 ## B1T L4B
