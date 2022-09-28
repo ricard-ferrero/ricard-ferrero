@@ -1,6 +1,6 @@
 # Hi 👋 I'm Ricard Ferrero
 
-I love backend... But it's hard not to be curious about IT.
+I'm a polylover technology:
 - 🐧Linux
 - 🐍Python
 - 🗃️Backend (Django)
