@@ -1,11 +1,8 @@
-# Hi 👋 I'm Ricard Ferrero
+# ¡Muy buenas! Soy Ricard Ferrero 😁
 
-- 🐧Linux
-- 🐍Python
-- 💎Ruby
-- 🗃️Backend (Django, Ruby on Rails)
+La historia de un aficionado que pasó a profesional:
 
-And it's only the beginning
+[Café con Bits ☕](https://cafeconbitsdev.blogspot.com/)
 
 <!---
 Did you know that not all ducks can fly? Look for Indian Runner duck.
