@@ -6,6 +6,10 @@
 
 Un humilde blog donde comparto tanto mi experiencia subjetiva como información útil sobre programación e informática.
 
+### [Breve biografía](https://cafeconbitsdev.blogspot.com/p/sobre-mi.html)
+
+Si te pica la curiosidad sobre mi relación con el mundo del software, pásate por mi breve biografía 🤓
+
 ## Mis proyectos
 
 ### [Zoom Algorithm](https://github.com/ricard-ferrero/zoom-algorithm)
